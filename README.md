@@ -6,7 +6,7 @@
 
 Projeto criado no módulo 3 do curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-Um site simples com um cordel de Milton Duarte que foi criado com o próposito de aprender e práticar mais sobre HTML e CSS, mais especificamente sobre o efeito Parallax do CSS.
+Um site simples que mostra um cordel de Milton Duarte e utiliza o efeito Parallax do CSS.
 
 [Clique aqui para ir ao site do projeto](https://ramonfarias1.github.io/projeto-cordel/)
 
